@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Issue" max_length="40" name="x_774026_safety_issue" sizeclass="27" type="collection"/>
+</database>
