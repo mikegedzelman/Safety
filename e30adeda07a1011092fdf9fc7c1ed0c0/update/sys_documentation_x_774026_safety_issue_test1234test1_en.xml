@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="test1234test1" label="test1234" language="en" table="x_774026_safety_issue">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>test1234test1</element>
+            <help/>
+            <hint/>
+            <label>test1234</label>
+            <language>en</language>
+            <name>x_774026_safety_issue</name>
+            <plural>test1234s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-07 18:30:23</sys_created_on>
+            <sys_id>a67132da078201106293ff808c1ed0c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>test1234</sys_name>
+            <sys_package display_value="Safety" source="x_774026_safety">e30adeda07a1011092fdf9fc7c1ed0c0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Safety">e30adeda07a1011092fdf9fc7c1ed0c0</sys_scope>
+            <sys_update_name>sys_documentation_x_774026_safety_issue_test1234test1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-07 18:30:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

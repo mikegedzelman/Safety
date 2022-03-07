@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Issue" max_length="40" name="x_774026_safety_issue" sizeclass="27" type="collection"/>
+    <element extends="task" label="Issue" max_length="40" name="x_774026_safety_issue" sizeclass="27" type="collection">
+        <element label="test1234" max_length="40" name="test1234test1" type="boolean"/>
+        <element label="New True/False" max_length="40" name="u_boolean_1" type="boolean"/>
+    </element>
 </database>
